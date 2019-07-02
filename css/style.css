@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: yellow;
+    font-family:  helvetica;
+    font-weight:  bold;
+    font-style:   italic;
+    line-height:  1.5;
+    text-align:   justify;
+    text-transform: uppercase;
+}   
+
+
+
+.highlight {
+text-transform: uppercase;
+background-color: yellow
+}
