@@ -1,3 +1,12 @@
+COLOURS:
+dark: #373223E
+mid:  #BFBDC1
+light: #6D6A75
+comp-light: #DEB841
+comp-dark: #DE9E36
+
+
+
 body {
     background-color: black;
     color: yellow;
@@ -15,3 +24,18 @@ body {
 text-transform: uppercase;
 background-color: yellow
 }
+
+
+header {
+    font-family: 'Dm Serif Display', serif;
+    font-size: 5
+    font-style: bold;
+    max-width:  10; 
+}
+
+
+
+
+
+
+
